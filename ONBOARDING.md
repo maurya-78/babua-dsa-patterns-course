@@ -36,8 +36,8 @@ This sheet is designed to help onboard new learners into the course.
 | 14  | 0. Introduction to Queues                              | [🎥 Watch Video](https://www.youtube.com/watch?v=6Q-VOnii7FI&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj)          |  ✅      |
 | 15  | 622. Design Circular Queue                             | [🎥 Watch Video](https://www.youtube.com/watch?v=CrZzJOyjQFE&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj&index=2)  |  ✅    |
 | 16  | Queue Methods For Interviews                           | [🎥 Watch Video](https://www.youtube.com/watch?v=CClHsoo5CrQ&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj&index=3)  |  ✅      |
-| 17  | 705. Design HashSet                                    | [🎥 Watch Video](https://www.youtube.com/watch?v=NfTyAM6T7to&list=PLVItHqpXY_DC3jKLtYYyM26ZdofoVVtpo)          | ☐      |
-| 18  | 706. Design HashMap                                    | [🎥 Watch Video](https://www.youtube.com/watch?v=Q2dzzbFqKmo&list=PLVItHqpXY_DC3jKLtYYyM26ZdofoVVtpo&index=2)  | ☐      |
+| 17  | 705. Design HashSet                                    | [🎥 Watch Video](https://www.youtube.com/watch?v=NfTyAM6T7to&list=PLVItHqpXY_DC3jKLtYYyM26ZdofoVVtpo)          |✅      |
+| 18  | 706. Design HashMap                                    | [🎥 Watch Video](https://www.youtube.com/watch?v=Q2dzzbFqKmo&list=PLVItHqpXY_DC3jKLtYYyM26ZdofoVVtpo&index=2)  | ✅      |
 | 19  | Binary Tree-1-Theory                                   | [🎥 Watch Video](https://www.youtube.com/watch?v=KejwzBy5hkg&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_)          | ☐      |
 | 20  | 144. Binary Tree Preorder Traversal                    | [🎥 Watch Video](https://www.youtube.com/watch?v=-K8hwyHidSg&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=2)  | ☐      |
 | 21  | 94. Binary Tree Inorder Traversal                      | [🎥 Watch Video](https://www.youtube.com/watch?v=zatMy62PlK0&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=3)  | ☐      |
